@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NovoContacto()
+comment1.params=
+comment1.target=void\ mostraCaixaDialogo()
+comment1.text=ste\ m\u00E9todo\ \u00E9\ necess\u00E1rio\ para\ poder\ utilizar\ o\ m\u00E9todo\ showMessageDialog\ com\ o\ par\u00E2metro\ "this",\r\n\ \ \ \ ou\ seja,\ a\ caixa\ de\ di\u00E1logo\ aparecer\u00E1\ no\ centro\ da\ janela\ a\ partir\ da\ qual\ foi\ invocada.\r\n\ \ \ \ Em\ alternativa\ o\ m\u00E9todo\ pode\ ser\ invocado\ dentro\ da\ classe\ EventoJBGuardar\ mas,\ nesse\ caso,\r\n\ \ \ \ ter\u00E1\ que\ utilizar\ o\ par\u00E3metro\ "null",\ ou\ seja,\ a\ caixa\ de\ di\u00E1logo\ aparecer\u00E1\ no\ centro\ do.\ ecr\u00E3.\r\nEsta\ linha\ de\ c\u00F3digo\ est\u00E1\ em\ coment\u00E1rio\ dentro\ da\ classe\ EventoJBGuardar.
+comment2.params=
+comment2.target=void\ limpaCampos()
+numComments=3
